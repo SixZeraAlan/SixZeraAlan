@@ -38,9 +38,7 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/han-yao/)
-
 <p align="center">
-<a href="https://hanyao-personal-website.netlify.app/"></a>
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/han-yao/)
+[![Portfolio](https://i.stack.imgur.com/gVE0j.png) Portfolio](https://hanyao-personal-website.netlify.app/)
 

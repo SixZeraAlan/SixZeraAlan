@@ -39,8 +39,12 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/han-yao/)
+[LinkedIn](https://www.linkedin.com/in/han-yao/)
+
+[Portfolio](https://hanyao-personal-website.netlify.app/)
+
+[Email](yao.han1@northeastern.edu)
 
 
-[!Portfolio](https://hanyao-personal-website.netlify.app/)
+
 

@@ -43,7 +43,7 @@
 
 [Portfolio](https://hanyao-personal-website.netlify.app/)
 
-[Email](yao.han1@northeastern.edu)
+[Email](mailto:yao.han1@northeastern.edu)
 
 
 

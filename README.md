@@ -39,12 +39,8 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/akhilgkrishnan) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/akhilgkrishnan) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/MrAkhilG) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://facebook.com/akhilgkrishnan9800)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/han-yao/)
 
 <p align="center">
 <a href="https://hanyao-personal-website.netlify.app/"></a>
-<a href="https://www.linkedin.com/in/han-yao/"><img alt="LinkedIn" src="https://i.stack.imgur.com/gVE0j.png"></a>
-<a href="yao.han1@northeastern.edu"><img alt="SchoolEmail" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-<a href="yaohan101@gmail.com"><img alt="PersonalEmail" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-</p>
 
